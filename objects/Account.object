@@ -351,6 +351,11 @@
                     <default>false</default>
                     <label>Merge1</label>
                 </value>
+                <value>
+                    <fullName>Merge2</fullName>
+                    <default>false</default>
+                    <label>Merge2</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>

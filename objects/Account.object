@@ -356,6 +356,11 @@
                     <default>false</default>
                     <label>Merge2</label>
                 </value>
+                <value>
+                    <fullName>ARMNetwrok</fullName>
+                    <default>false</default>
+                    <label>ARMNetwrok</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>

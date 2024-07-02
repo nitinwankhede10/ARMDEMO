@@ -336,6 +336,11 @@
                     <default>false</default>
                     <label>Demo2</label>
                 </value>
+                <value>
+                    <fullName>Demo3</fullName>
+                    <default>false</default>
+                    <label>Demo3</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>

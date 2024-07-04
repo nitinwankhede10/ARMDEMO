@@ -341,6 +341,26 @@
                     <default>false</default>
                     <label>Demo3</label>
                 </value>
+                <value>
+                    <fullName>Demo_merge</fullName>
+                    <default>false</default>
+                    <label>Demo_merge</label>
+                </value>
+                <value>
+                    <fullName>Merge1</fullName>
+                    <default>false</default>
+                    <label>Merge1</label>
+                </value>
+                <value>
+                    <fullName>Merge2</fullName>
+                    <default>false</default>
+                    <label>Merge2</label>
+                </value>
+                <value>
+                    <fullName>ARMNetwrok</fullName>
+                    <default>false</default>
+                    <label>ARMNetwrok</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
